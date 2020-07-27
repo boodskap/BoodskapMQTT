@@ -1,0 +1,12 @@
+BoodskapMQTT		KEYWORD1
+MqttListener		KEYWORD1
+MqttAdapter		KEYWORD1
+
+onMqttMessage		KEYWORD2
+onMqttConnect		KEYWORD2
+onMqttDisconnect	KEYWORD2
+onMqttSubscribe		KEYWORD2
+onMqttUnsubscribe	KEYWORD2
+onMqttPublish		KEYWORD2
+onMessage		KEYWORD2
+onData			KEYWORD2

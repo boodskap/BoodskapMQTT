@@ -1,0 +1,16 @@
+{
+  "name": "BoodskapMQTT",
+  "keywords": "boodskap, iot, mqtt, udp, http, m2m, telemetry, wireless",
+  "description": "Boodskap IoT Platform MQTT Arduino Library",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boodskap/BoodskapMQTT.git"
+  },
+  "version": "3.0.0",
+  "authors": {
+    "name": "Jegan Vincent",
+    "url": "https://developer.boodskap.io"
+  },
+  "frameworks": "arduino",
+  "platforms": "*"
+}
